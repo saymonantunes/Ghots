@@ -1,0 +1,2 @@
+# Ghots
+pensamento computacianal
